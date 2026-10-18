@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.minisched/
+*.db
+*.db-wal
+*.db-shm
+*.sock
+.venv/
+.DS_Store
